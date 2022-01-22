@@ -1,7 +1,3 @@
-### Hi there 👋
-
-# Seon-Woo
-
 # Data Science / Machine & Deep Learning / Recommender System / Financial
          
           
