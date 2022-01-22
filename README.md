@@ -9,7 +9,7 @@ B.A Student
 
 # Career💼
 - K-Digital Training
-Business Support System Q&A TextMining
+
 
 
 
