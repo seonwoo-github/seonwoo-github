@@ -3,7 +3,7 @@
           
 
 # Education📚
-- KonKuk Univ. Glocal Campus
+- KonKuk Univ. Glocal Campus  
 International Traiding  
 B.A Student
 
