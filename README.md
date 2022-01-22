@@ -8,34 +8,18 @@ International Traiding
 B.A Student
 
 # Career💼
-- KOREA LOCAL INFORMATION RESEARCH & DEVELOPMENT INSTITUTE Intern
+- K-Digital Training
 Business Support System Q&A TextMining
 
-Automating LSTM-based Q&A Task Selection
-- NH Investment & Securities CO.,LTD. Intern
-News & Research Data NER project
-
-Improved Rules & AI-based stock market search engines
-- KB Kookmin Card Co., Ltd.
 
 
 # Prize🏆
-- The 1st NH Investment & Securities CO.,LTD. Big Data Competition
-AI-based ad news detection contest 1st place 🥇
 
 
-- Seoul Metropolitan Government Big Data Campus Contest
-Analysis of the Location of Residential Welfare for Single-person Families 3rd place 🥉
-
-
-- Hanium ICT Contest
-User Symptom Based Drug Recommendation Chatbot 🎖
 
 # Certificate📃
-- BigData Analysis Engineer
-- Advanced Data Analytics Semi-Professional
-- Structured Query Language Developer
-- Advanced Machine Learning and Signal Processing (IBM)
+- Microsoft Specialist(MOS) Excel
+- Microsoft Specialist(MOS) Excel
 
 
 
