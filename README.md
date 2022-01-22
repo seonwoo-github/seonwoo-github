@@ -11,7 +11,10 @@ B.A Student
 - K-Digital Training  
   
 - K-DATA  
-2021 My Data Demonstration Team
+2021 My Data Demonstration Team. 
+  
+- Kakao Bank    
+Advisory Committee member
 
 
 
