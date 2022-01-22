@@ -8,7 +8,10 @@ International Traiding
 B.A Student
 
 # 💼 Career
-- K-Digital Training
+- K-Digital Training  
+  
+- K-DATA  
+2021 My Data Demonstration Team
 
 
 
