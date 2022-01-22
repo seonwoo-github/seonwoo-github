@@ -4,7 +4,7 @@
 
 # 📚 Education
 - KonKuk Univ. Glocal Campus  
-International Traiding  
+International Trading  
 B.A Student
 
 # 💼 Career
