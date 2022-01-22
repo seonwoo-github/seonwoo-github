@@ -3,10 +3,9 @@
           
 
 # Education📚
-- Myongji Univ
-Department of Industrial and Management Engineering
-
-B.S. Student
+- KonKuk Univ. Glocal Campus
+International Traiding
+B.A Student
 
 # Career💼
 - KOREA LOCAL INFORMATION RESEARCH & DEVELOPMENT INSTITUTE Intern
