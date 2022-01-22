@@ -9,7 +9,7 @@ B.A Student
 
 # 💼 Career
 - K-Digital Training  
-Seller Recommender System with Bunjang.inc  
+Seller Recommender System with AD Data - Bunjang.inc  
 Credit Card User EDA - Dacon
   
 - K-DATA  
