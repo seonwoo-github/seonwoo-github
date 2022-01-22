@@ -2,22 +2,22 @@
          
           
 
-# Education📚
+# 📚 Education
 - KonKuk Univ. Glocal Campus  
 International Traiding  
 B.A Student
 
-# Career💼
+# 💼 Career
 - K-Digital Training
 
 
 
 
-# Prize🏆
+# 🏆 Prize
 
 
 
-# Certificate📃
+# 📃 Certificate
 - Microsoft Specialist(MOS) Excel
 - Microsoft Specialist(MOS) Excel
 
