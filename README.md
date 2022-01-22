@@ -9,6 +9,7 @@ B.A Student
 
 # 💼 Career
 - K-Digital Training  
+Seller Recommender System with Bunjang.inc
   
 - K-DATA  
 2021 My Data Demonstration Team. 
