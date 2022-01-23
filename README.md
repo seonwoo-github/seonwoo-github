@@ -5,10 +5,14 @@
 </div>
   
   
+  
+  
 # 📚 Education
 ### - KonKuk Univ. Glocal Campus  
 International Trading  
 B.A Student
+  
+  
   
   
 # 💼 Career
@@ -21,6 +25,8 @@ Credit Card User EDA - Dacon
   
 ### - Kakao Bank    
 Advisory Committee member
+  
+  
   
   
 # 📃 Certificate
