@@ -27,7 +27,7 @@ Advisory Committee member
 
 # 📃 Certificate
 - Microsoft Specialist(MOS) Excel
-- Microsoft Specialist(MOS) Excel
+- Microsoft Specialist(MOS) PowerPoint
 
 
 
