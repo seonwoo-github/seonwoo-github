@@ -1,6 +1,7 @@
 # Data Science / Machine & Deep Learning / Recommender System / Financial
-         
-<img src="https://img.shields.io/badge/Python-blank?style=flat&logo=Sass&logoColor=3776AB"/> <img src="https://img.shields.io/badge/JupyterLab-blank?style=flat&logo=Sass&logoColor=F37626"/>
+
+<img src="https://img.shields.io/badge/Python-blank?style=flat&logo=Sass&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/JupyterLab-blank?style=flat&logo=Sass&logoColor=F37626"/>
 <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Sass&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Sass&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Sass&logoColor=3776AB"/>
