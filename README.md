@@ -4,19 +4,19 @@
 </div>
 
 # 📚 Education
-- KonKuk Univ. Glocal Campus  
+### - KonKuk Univ. Glocal Campus  
 International Trading  
 B.A Student
 
 # 💼 Career
-- K-Digital Training  
+### - K-Digital Training  
 Seller Recommender System with AD Data - Bunjang.inc  
 Credit Card User EDA - Dacon
   
-- K-DATA  
+### - K-DATA  
 2021 My Data Demonstration Team. 
   
-- Kakao Bank    
+### - Kakao Bank    
 Advisory Committee member
 
 
