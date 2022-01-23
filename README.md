@@ -1,6 +1,7 @@
 # Data Science / Machine & Deep Learning / Recommender System / Financial
          
-          
+<img src="https://img.shields.io/badge/Python-green?style=flat&logo=Sass&logoColor=3776AB"/>
+
 
 # 📚 Education
 - KonKuk Univ. Glocal Campus  
