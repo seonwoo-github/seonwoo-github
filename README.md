@@ -1,6 +1,6 @@
 # Data Science / Machine & Deep Learning / Recommender System / Financial
 
-<img src="https://img.shields.io/badge/Python-0769AD?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JupyterLab-E34F26?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-0769AD?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JupyterLab-E34F26?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
 
 
 # 📚 Education
