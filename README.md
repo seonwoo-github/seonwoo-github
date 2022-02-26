@@ -18,7 +18,6 @@ B.A Student
 # 💼 Career
 ### - K-Digital Training  
 Seller Recommender System with AD Data - Bunjang.inc  
-Credit Card User EDA - Dacon
   
 ### - K-DATA  
 2021 My Data Demonstration Team. 
