@@ -1,4 +1,4 @@
-# Data Science / Marketing / Machine Learning / Recommender System
+# Data Analytics / Marketing / Machine Learning / Recommender System
   
 <div align="center">
 <img src="https://img.shields.io/badge/Python-0769AD?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JupyterLab-E34F26?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
