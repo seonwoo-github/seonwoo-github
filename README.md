@@ -24,10 +24,10 @@ Seller Recommender System with AD Data - Bunjang.inc
   
 ### - Kakao Bank    
 Advisory Committee member
-  
-  
-  
-  
+    
+     
+     
+     
 # 📃 Certificate
 - Microsoft Specialist(MOS) Excel
 - Microsoft Specialist(MOS) PowerPoint
